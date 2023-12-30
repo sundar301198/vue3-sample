@@ -15,4 +15,5 @@ Run `npm install` from the cloned root folder.
 Run `npm run start` to serve the node js server
 
 Note: Open the New Terminal and run below command
+
 Run `npm run dev` to serve the vue js application
